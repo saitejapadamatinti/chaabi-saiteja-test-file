@@ -1,0 +1,20 @@
+.light {
+  background-color: #323437;
+  color: #fff;
+}
+
+.dark {
+  background-color: #fff;
+  color: #333;
+}
+
+
+.wrapper {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.input__box {
+  margin: 0 40%;
+  width: 20%;
+}
